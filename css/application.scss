@@ -1,0 +1,28 @@
+---
+---
+
+@import "variables";
+@import "materialize/materialize";
+
+
+#jumbotron {
+  h1 {
+    margin: 6.7rem 0 2.8rem 0;
+  }
+
+  .btn-large {
+    margin: 0.95rem 0 4.3rem 0;
+  }
+}
+
+#features {
+  margin-bottom: 5.25rem;
+
+  h2 .material-icons {
+    font-size: inherit;
+  }
+
+  h5, p {
+    padding: 0 15px;
+  }
+}
